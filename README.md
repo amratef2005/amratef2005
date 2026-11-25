@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=180&section=header&text=Amr%20Atef%20Kandel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Backend%20Developer&descAlignY=58" width="100%" />
+<img src="banner.svg" width="100%" alt="Amr Atef Kandel, .NET Backend Developer" />
 
 <a href="https://amratefkandel-git-main-atef45692-8635s-projects.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=48&duration=2500&pause=1500&color=512BD4&center=true&vCenter=true&width=300&height=90&lines=ME" alt="ME" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=48&duration=2500&pause=1500&color=1E6FEB&center=true&vCenter=true&width=300&height=90&lines=ME" alt="ME" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=239120&center=true&vCenter=true&width=700&lines=C%23+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+PostgreSQL;Clean+Architecture+%7C+CQRS+%7C+SignalR;Ismailia%2C+Egypt" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=8233DC&center=true&vCenter=true&width=700&lines=C%23+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+PostgreSQL;Clean+Architecture+%7C+CQRS+%7C+SignalR;Ismailia%2C+Egypt" alt="Typing animation" />
 
 <br/>
 
