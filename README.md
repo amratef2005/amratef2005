@@ -1,17 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=200&section=header&text=Amr%20Atef%20Kandel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20(.NET)&descAlignY=58" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Amr+%F0%9F%91%8B;I+build+backend+apps+with+C%23+and+.NET;Based+in+Ismailia%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing animation" />
-
-### 👋 [About me](https://amratefkandel-git-main-atef45692-8635s-projects.vercel.app)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=180&section=header&text=Amr%20Atef%20Kandel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Backend%20Developer&descAlignY=58" width="100%" />
 
 <a href="https://amratefkandel-git-main-atef45692-8635s-projects.vercel.app">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,html,git,github,vercel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=48&duration=2500&pause=1500&color=512BD4&center=true&vCenter=true&width=300&height=90&lines=ME" alt="ME" />
 </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=239120&center=true&vCenter=true&width=700&lines=C%23+%7C+ASP.NET+Core+%7C+SQL+Server+%7C+PostgreSQL;Clean+Architecture+%7C+CQRS+%7C+SignalR;Ismailia%2C+Egypt" alt="Typing animation" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,supabase,git,github,githubactions" />
 
 </div>
 
-## 🚀 Projects I'm working on
-- **[MOT7KM](https://mot7km.store)**: a Next.js web app for the MOT7KM menu
+## 👨‍💻 About
+Computer Science student (Suez Canal University, B.Sc. Mathematics, Computer Science Program) and .NET backend developer. I design secure, scalable REST APIs with Clean Architecture and CQRS, with JWT/OAuth authentication and real-time features.
+
+## 💼 Experience
+**Backend Developer, Multi-Tenant SaaS ERP & Digital Menu Platform ([MOT7KM](https://mot7km.store))** (May 2026 to now, remote)
+- Clean Architecture with a Modular Monolith approach, multi-tenancy and tenant isolation
+- Auth with JWT, OAuth and phone OTP, refresh token rotation and token reuse detection
+- Real-time dashboard updates with SignalR, background batch processing
+- CI/CD with GitHub Actions and IIS deployment
+
+## 🚀 Projects
+- **[MOT7KM](https://mot7km.store)**: the digital menu platform I build the backend for, with a Next.js web app
 - **StudySync**: backend built with C# and .NET
+- **Academic Management System**: .NET backend, Clean Architecture, CQRS, 49 automated tests (100% passing)
+
+## 🎓 Certifications
+Information Technology Institute (ITI), 2024 · Advanced C# & .NET Engineering Certificate, 2024
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/amr-atef-kandel)
