@@ -10,27 +10,40 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,supabase,git,github,githubactions" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,supabase,git,github,githubactions,postman" />
 
 </div>
 
 ## 👨‍💻 About
-Computer Science student (Suez Canal University, B.Sc. Mathematics, Computer Science Program) and .NET backend developer. I design secure, scalable REST APIs with Clean Architecture and CQRS, with JWT/OAuth authentication and real-time features.
+Computer Science student and .NET backend developer. I build scalable RESTful APIs with C# and ASP.NET Core, using Clean Architecture and CQRS, with secure authentication (JWT, OAuth 2.0, phone OTP), multi-tenant SaaS design, real-time features with SignalR, and background processing.
+
+## 🛠️ Skills
+- **Languages:** C#, SQL
+- **Backend:** .NET 10, ASP.NET Core Web API, Entity Framework Core, Dependency Injection, Middleware
+- **Architecture:** Clean Architecture, Modular Monolith, CQRS, DTOs
+- **Databases:** SQL Server, PostgreSQL, Supabase
+- **Security:** JWT, OAuth 2.0, Refresh Token Rotation, Multi-Tenant Authorization, IDOR Prevention
+- **Real-time:** SignalR, Background Services, Batch Processing
+- **Tools:** Git, GitHub Actions, CI/CD, IIS, Swagger / OpenAPI, Postman, FluentValidation
 
 ## 💼 Experience
 **Backend Developer, Multi-Tenant SaaS ERP & Digital Menu Platform ([MOT7KM](https://mot7km.store))** (May 2026 to now, remote)
-- Clean Architecture with a Modular Monolith approach, multi-tenancy and tenant isolation
-- Auth with JWT, OAuth and phone OTP, refresh token rotation and token reuse detection
-- Real-time dashboard updates with SignalR, background batch processing
-- CI/CD with GitHub Actions and IIS deployment
+- Designed and built the backend with Clean Architecture and a Modular Monolith approach
+- RESTful APIs for business profiles, branches, menus, categories, products and promotional campaigns
+- Multi-tenancy with tenant isolation, auth with JWT, OAuth and phone OTP
+- Refresh token rotation with sliding expiration, token reuse detection and SHA-256 hashing
+- Admin dashboard APIs with analytics, real-time updates with SignalR
+- Background batch processing for product view tracking, CI/CD with GitHub Actions and IIS
 
 ## 🚀 Projects
 - **[MOT7KM](https://mot7km.store)**: the digital menu platform I build the backend for, with a Next.js web app
 - **StudySync**: backend built with C# and .NET
 - **Academic Management System**: .NET backend, Clean Architecture, CQRS, 49 automated tests (100% passing)
 
-## 🎓 Certifications
-Information Technology Institute (ITI), 2024 · Advanced C# & .NET Engineering Certificate, 2024
+## 🎓 Education & Certifications
+- B.Sc. Mathematics, Computer Science Program, Suez Canal University (expected 2026)
+- Database Fundamentals, Information Technology Institute (ITI), 2025
+- C# Mastering Course for Intermediates, Udemy, 2026
 
 ## 📫 Contact
 [LinkedIn](https://linkedin.com/in/amr-atef-kandel)
