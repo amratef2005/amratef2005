@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I'm Amr Atef Kandel 👋</h1>
-<p align="center"><b>Backend Developer (.NET)</b> · Ismailia, Egypt 🇪🇬</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=200&section=header&text=Amr%20Atef%20Kandel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20(.NET)&descAlignY=58" width="100%" />
 
-I build backend applications with C# and ASP.NET Core.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Amr+%F0%9F%91%8B;I+build+backend+apps+with+C%23+and+.NET;Based+in+Ismailia%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing animation" />
 
-## 📂 Projects
-- **[MyPortfolio](https://amratefkandel-git-main-atef45692-8635s-projects.vercel.app)**: my personal portfolio website (live)
+### 👋 [About me](https://amratefkandel-git-main-atef45692-8635s-projects.vercel.app)
+
+<a href="https://amratefkandel-git-main-atef45692-8635s-projects.vercel.app">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,html,git,github,vercel" />
+</a>
+
+</div>
+
+## 🚀 Projects I'm working on
+- **[MOT7KM](https://mot7km.store)**: a Next.js web app for the MOT7KM menu
+- **StudySync**: backend built with C# and .NET
